@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88cbacd4-f26d-46a8-8365-d5e9fd63d926" name="Changes" comment="package shape">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88cbacd4-f26d-46a8-8365-d5e9fd63d926" name="Changes" comment="demoTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -35,9 +33,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Demo.executor": "Run",
+    "JUnit.CircleTest.executor": "Run",
+    "JUnit.DemoTest.executor": "Run",
+    "JUnit.RectangleTest.executor": "Run",
+    "JUnit.ShapeTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -64,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709625705329</updated>
-      <workItem from="1709625706515" duration="1248000" />
+      <workItem from="1709625706515" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="maven creation">
       <option name="closed" value="true" />
@@ -82,7 +86,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709626066115</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="demo">
+      <option name="closed" value="true" />
+      <created>1709627156362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709627156362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="shapeTests">
+      <option name="closed" value="true" />
+      <created>1709627265354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709627265354</updated>
+    </task>
+    <task id="LOCAL-00005" summary="demoTest">
+      <option name="closed" value="true" />
+      <created>1709627306479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709627306479</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +119,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maven creation" />
     <MESSAGE value="package shape" />
-    <option name="LAST_COMMIT_MESSAGE" value="package shape" />
+    <MESSAGE value="demo" />
+    <MESSAGE value="shapeTests" />
+    <MESSAGE value="demoTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="demoTest" />
   </component>
 </project>
